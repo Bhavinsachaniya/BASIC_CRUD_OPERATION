@@ -34,7 +34,7 @@ A simple and intuitive file manager built with **Node.js**, **Express**, and **E
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/file-manager-app.git
+git clone https://github.com/Bhavinsachaniya/BASIC_CRUD_OPERATION.git
 cd file-manager-app
 ```
 
