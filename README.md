@@ -35,7 +35,6 @@ A simple and intuitive file manager built with **Node.js**, **Express**, and **E
 
 ```bash
 git clone https://github.com/Bhavinsachaniya/BASIC_CRUD_OPERATION.git
-cd file-manager-app
 ```
 
 ### 2. Install Dependencies
